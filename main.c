@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @author darshan (you@domain.com)
- * @brief char_ascii_deci
+ * @brief char_ascii_hexa_deci
  * @version 0.1
  * @date 2022-05-05
  * 
