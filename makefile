@@ -1,5 +1,3 @@
-
-
 PROJ_NAME = ACTIVITY
 SRC = fun.c main.c 
 ifdef OS

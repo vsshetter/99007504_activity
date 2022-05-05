@@ -1,4 +1,6 @@
-
+#include<stdio.h>
+#include "head.h"
+#include<string.h>
 void charsum()
 {
 char str[100];//initializing the string
